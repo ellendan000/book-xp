@@ -34,3 +34,13 @@ jobs:
           token: ${{ secrets.FOR_GITPAGE_TOKEN }}
           source_branch: main
           publish_branch: gh-pages
+
+      - name: Gitbook Action to azuer deployment
+        uses: ZanderZhao/gitbook-action@v1.2.4
+        with:
+          token: ${{ secrets.FOR_GITPAGE_TOKEN }}
+          source_repo: ellendan000/book-xp
+          source_branch: main
+          publish_repo: ellendan000/ellendan000.github.io
+          publish_branch: stable-source
+          publish_dir: /books/xp

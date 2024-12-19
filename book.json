@@ -1,0 +1,32 @@
+{
+    "language": "zh-hans",
+    "author": "EllenDan",
+    "title": "极限编程2.0",
+    "gitbook": ">=3.2.3",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-sharing",
+        "search-pro",
+        "code",
+        "splitter",
+        "anchor-navigation-ex",
+        "expandable-chapters",
+        "advanced-emoji",
+        "popup",
+        "alerts",
+        "sidebar-style",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "sidebar-style": {
+            "title": "极限编程2.0",
+            "author": "EllenDan"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &#169; EllenDan",
+            "modify_label": "modified at",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}

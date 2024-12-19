@@ -3,6 +3,11 @@
     "author": "EllenDan",
     "title": "极限编程2.0",
     "gitbook": ">=3.2.3",
+    "links": {
+        "sidebar": {
+            "ellendan's blog": "https://ellendan.com"
+        }
+    },
     "plugins": [
         "-lunr",
         "-search",

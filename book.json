@@ -15,7 +15,7 @@
         "search-pro",
         "code",
         "splitter",
-        "expandable-chapters",
+        "expandable-chapters-small",
         "advanced-emoji",
         "popup",
         "alerts",
@@ -29,7 +29,7 @@
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright &#169; EllenDan",
-            "modify_label": "modified at",
+            "modify_label": "Modified at",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }

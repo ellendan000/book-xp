@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-summary": "^1.1.0",
-    "gitbook-summary": "^1.2.4"
+    "gitbook-cli": "^2.3.2"
   }
 }

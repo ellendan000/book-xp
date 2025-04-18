@@ -1,7 +1,7 @@
 {
     "language": "zh-hans",
     "author": "EllenDan",
-    "title": "极限编程2.0",
+    "title": "进股市学理财",
     "gitbook": ">=3.2.3",
     "links": {
         "sidebar": {
@@ -24,7 +24,7 @@
     ],
     "pluginsConfig": {
         "sidebar-style": {
-            "title": "极限编程2.0",
+            "title": "进股市学理财",
             "author": "EllenDan"
         },
         "tbfed-pagefooter": {

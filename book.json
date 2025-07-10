@@ -20,7 +20,8 @@
         "popup",
         "alerts",
         "sidebar-style",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "katex"
     ],
     "pluginsConfig": {
         "sidebar-style": {

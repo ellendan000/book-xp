@@ -21,7 +21,8 @@
         "alerts",
         "sidebar-style",
         "tbfed-pagefooter",
-        "katex"
+        "katex",
+        "mermaid"
     ],
     "pluginsConfig": {
         "sidebar-style": {

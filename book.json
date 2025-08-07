@@ -22,7 +22,7 @@
         "sidebar-style",
         "tbfed-pagefooter",
         "katex",
-        "mermaid"
+        "mermaid-gb3"
     ],
     "pluginsConfig": {
         "sidebar-style": {

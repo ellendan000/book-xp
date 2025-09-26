@@ -33,6 +33,9 @@
             "copyright": "Copyright &#169; EllenDan",
             "modify_label": "Modified at",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "mermaid-gb3": {
+            "theme": "forest"
         }
     }
 }
